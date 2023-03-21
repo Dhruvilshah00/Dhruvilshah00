@@ -3,11 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvilshah00&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvilshah00" /> </p>
 
+
+- 🔭 I’m currently working on [IES(IELTS Exam Software)](https://github.com/Dhruvilshah00/IES-IELTS-Exam-Software)
+
 - 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter & Machine Learning**
 
 - 📫 How to reach me **shahdhruvil.it@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
